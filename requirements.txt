@@ -1,1 +1,39 @@
+# Core Machine Learning Libraries
+tensorflow>=2.12.0
+scikit-learn>=1.2.2
+spacy>=3.5.0
 
+# Data Manipulation & Analysis
+pandas>=1.5.3
+numpy>=1.23.5
+scipy>=1.10.1
+
+# Data Visualization
+matplotlib>=3.7.1
+seaborn>=0.12.2
+plotly>=5.13.1
+
+# Natural Language Processing
+spacy>=3.5.0
+nltk>=3.8.1
+textblob>=0.17.1
+
+# Web Deployment & Interface
+streamlit>=1.22.0
+flask>=2.3.2
+pillow>=9.5.0
+
+# Utilities & Additional Tools
+jupyter>=1.0.0
+notebook>=6.5.4
+ipython>=8.12.0
+tqdm>=4.65.0
+
+# Model Interpretability & Ethics
+shap>=0.41.0
+lime>=0.2.0.1
+
+# Alternative: If you want specific versions for compatibility
+# tensorflow==2.12.0
+# scikit-learn==1.2.2
+# pandas==1.5.3
