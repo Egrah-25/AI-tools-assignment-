@@ -119,7 +119,7 @@ Expected Output:
 Task 2: MNIST CNN
 
 ```bash
-python task2_mnist_cnn.py
+python mnist_cnn.py
 ```
 
 Expected Output:
@@ -132,7 +132,7 @@ Expected Output:
 Task 3: NLP Analysis
 
 ```bash
-python task3_nlp_analysis.py
+python nlp_analysis.py
 ```
 
 Expected Output:
@@ -145,7 +145,7 @@ Expected Output:
 Task 4: Ethics & Troubleshooting
 
 ```bash
-python task4_ethics_troubleshooting.py
+python ethics_troubleshooting.py
 ```
 
 Expected Output:
@@ -157,7 +157,7 @@ Expected Output:
 Bonus: Streamlit Deployment
 
 ```bash
-streamlit run bonus_streamlit_app.py
+streamlit run streamlit_app.py
 ```
 
 Access at: http://localhost:8501
