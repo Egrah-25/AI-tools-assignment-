@@ -160,8 +160,6 @@ Bonus: Streamlit Deployment
 streamlit run streamlit_app.py
 ```
 
-Access at: http://localhost:8501
-
 📊 Results Summary
 
 Task 1: Iris Classification
